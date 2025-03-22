@@ -19,5 +19,5 @@ export const TextButtonDisabled: Story = {
   args: {
     label: 'Test Button',
     disabled: true,
-  }
+  },
 };
